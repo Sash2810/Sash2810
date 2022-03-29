@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sarvesh Himmatramka an undergrad student.
+- 👀 I’m interested in working as a software developer.
+- 🌱 I’m currently majoring in computer science and I am a sophomore.
+- 💞️ I’m looking to collaborate on interesting and creative projects.
+- 📫 How to reach me: sarvesh102802@gmail.com
